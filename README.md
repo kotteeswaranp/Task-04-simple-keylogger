@@ -1,0 +1,1 @@
+simple keylogger create a basic keylogeer program thatrecords and logs keystrokes focus on logging the key pressed and saving them a file note:ethical considerations and premissions are crucial for projects involving keylogger
